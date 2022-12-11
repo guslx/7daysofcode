@@ -1,6 +1,7 @@
 @import url("styles/header.css");
 @import url("styles/landing-page.css");
 @import url("styles/main-section.css");
+@import url("styles/vagas.css");
 
 :root {
     --branco: #FFFFFF;

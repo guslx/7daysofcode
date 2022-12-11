@@ -1,0 +1,37 @@
+.secao-vagas, 
+.secao-vagas--secundario {
+    padding: 0 15vw;
+}
+
+.secao-vagas--secundario {
+    margin: 4em 0;
+}
+
+.vagas-titulo {
+    font-size: 20px;
+    font-weight: 500;
+    padding: 1em 0 2em;
+}
+
+.vagas-card {
+    border: 1px solid #EAECF0;
+    border-radius: 16px;
+    padding: 2em 1em 1.7em;
+    margin-bottom: 1em;
+}
+
+.vagas-card--titulo {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.vagas-info {
+    display: flex;
+    gap: 1em;
+    padding: 2.5em 0 0;
+}
+
+.vagas-info--texto {
+    font-weight: 500;
+    color: var(--cinza);
+}
