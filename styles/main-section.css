@@ -1,0 +1,16 @@
+.secao-span-secundario {
+    padding: .4em .8em;
+    border-radius: 12px;
+    background-color: var(--vermelho-low-opacity);
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.secao-titulo-secundario {
+    font-size: 36px;
+}
+
+.secao-imagem {
+    padding: 4em 0;
+    width: 140%;
+}

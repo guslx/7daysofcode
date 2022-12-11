@@ -1,0 +1,20 @@
+@import url("styles/header.css");
+@import url("styles/landing-page.css");
+@import url("styles/main-section.css");
+
+:root {
+    --branco: #FFFFFF;
+    --cinza-escuro: #3A404E;
+    --cinza: #667085;
+    --fonte-principal: "Inter";
+    --vermelho: #8E2424;
+    --preto: #000000;
+    --vermelho-low-opacity: #8E24240D;
+}
+
+body {
+    background-color: var(--branco);
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400;
+}
