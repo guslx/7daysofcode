@@ -1,0 +1,38 @@
+.feedback-container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 0 10vw;
+    background: var(--vermelho-low-opacity);
+    border-radius: 16px;
+    padding: 4.5em 2em;
+}
+
+.feedback-texto {
+    font-weight: 600;
+    font-size: 14px;
+    color: var(--vermelho);
+}
+
+.feedback-titulo {
+    font-weight: 500;
+    font-size: 36px;
+    text-align: center;
+    padding: .8em 3em;
+}
+
+.perfil-texto {
+    font-weight: 500;
+    margin: 1em;
+}
+
+.perfil-descricao {
+    font-size: 14px;
+}
+
+.feedback-perfil {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
