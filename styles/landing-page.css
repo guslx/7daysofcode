@@ -35,10 +35,9 @@
 }
 
 .info-lista {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-}
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}  
 
 .info-titulo {
     font-weight: 600;
